@@ -11,3 +11,5 @@ echo "Uh"
 # Exit
 
 exit $STAT
+
+# ^ None of this really matters, because nothing will happen anyway
